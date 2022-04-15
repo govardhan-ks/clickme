@@ -2,7 +2,7 @@
     "release" : {
       "branches" : ["master", "next"]
     },
-    "dryRun": true,
+    "dryRun": false,
     "ci": false,
     "plugins": [
       "@semantic-release/commit-analyzer",
