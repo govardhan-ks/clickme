@@ -1,0 +1,12 @@
+{
+  "name": "clickme",
+  "version": "0.0.0-development",
+  "main": "./index.js",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
