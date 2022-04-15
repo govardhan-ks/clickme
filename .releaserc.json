@@ -9,7 +9,7 @@
       "@semantic-release/release-notes-generator",
       ["@semantic-release/github", {
         "assets": [
-          {"path": "dist/index.js", "label": "JS distribution"}
+          {"path": "dist/*.tgz", "label": "JS distribution"}
         ]
       }]
     ]
