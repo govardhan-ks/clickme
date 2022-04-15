@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/govardhan-ks/clickme/compare/v1.3.0...v1.3.1) (2022-04-15)
+
+
+### Bug Fixes
+
+* updated release rc ([16f03ef](https://github.com/govardhan-ks/clickme/commit/16f03efcef4e6e857e6443ed4586ac0eb9652f16))
+
 # [1.3.0](https://github.com/govardhan-ks/clickme/compare/v1.2.0...v1.3.0) (2022-04-15)
 
 
