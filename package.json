@@ -3,9 +3,12 @@
   "version": "0.0.0-development",
   "main": "./index.js",
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "tsc":"tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
   "devDependencies": {
     "semantic-release": "^19.0.2"
   }
