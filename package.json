@@ -4,12 +4,14 @@
   "main": "./index.js",
   "scripts": {
     "semantic-release": "semantic-release",
-    "tsc":"tsc"
+    "tsc": "tsc"
   },
   "dependencies": {
     "typescript": "^4.6.3"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "semantic-release": "^19.0.2"
   }
 }
